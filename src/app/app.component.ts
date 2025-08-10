@@ -1,6 +1,5 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-import {ComingSoonComponent} from './coming-soon/coming-soon.component';
 
 @Component({
   selector: 'app-root',
